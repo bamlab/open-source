@@ -19,3 +19,13 @@
 |[react-native-numberpicker-dialog](https://github.com/bamlab/react-native-numberpicker-dialog)|[![GitHub stars](https://img.shields.io/github/stars/bamlab/react-native-numberpicker-dialog.svg?style=social&label=Star)](https://github.com/bamlab/react-native-numberpicker-dialog/stargazers)|[![NPM downloads](https://img.shields.io/npm/dm/react-native-numberpicker-dialog.svg)](https://www.npmjs.com/package/react-native-numberpicker-dialog)|[![NPM downloads](https://img.shields.io/npm/dt/react-native-numberpicker-dialog.svg)](https://www.npmjs.com/package/react-native-numberpicker-dialog)
 |[cordova-camera-roll](https://github.com/bamlab/cordova-camera-roll)|[![GitHub stars](https://img.shields.io/github/stars/bamlab/cordova-camera-roll.svg?style=social&label=Star)](https://github.com/bamlab/cordova-camera-roll/stargazers)|[![NPM downloads](https://img.shields.io/npm/dm/cordova-camera-roll.svg)](https://www.npmjs.com/package/cordova-camera-roll)|[![NPM downloads](https://img.shields.io/npm/dt/cordova-camera-roll.svg)](https://www.npmjs.com/package/cordova-camera-roll)
 |[react-native-text-input](https://github.com/bamlab/react-native-text-input)|[![GitHub stars](https://img.shields.io/github/stars/bamlab/react-native-text-input.svg?style=social&label=Star)](https://github.com/bamlab/react-native-text-input/stargazers)|[![NPM downloads](https://img.shields.io/npm/dm/react-native-text-input.svg)](https://www.npmjs.com/package/react-native-text-input)|[![NPM downloads](https://img.shields.io/npm/dt/react-native-text-input.svg)](https://www.npmjs.com/package/react-native-text-input)
+
+## Contributing
+
+Most of our repositories are automatically published to npm with [semantic-release](https://github.com/semantic-release/semantic-release).
+
+In order to manage that, your commit should follow the AngularJS commit conventions [as explained here](https://github.com/semantic-release/semantic-release#default-commit-message-format)
+
+You can use `yarn commit` to write a commit respecting this convention.
+
+If you want to easily setup the same commit system in one of your open source repositories you can use [open-sourcify](https://github.com/almouro/open-sourcify)
